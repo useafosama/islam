@@ -1,0 +1,5 @@
+{
+  "name": "E-Learning Platform",
+  "description": "A professional, RTL-first e-learning web application that replicates the look and feel of khaled-sakr.com. It features a course catalog, course details page, and is built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
